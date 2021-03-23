@@ -1,0 +1,90 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TesteMelhoriaUpdateRevIsocs
+</name>
+</assembly>
+<members>
+<member name="T:TesteMelhoriaUpdateRevIsocs.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TesteMelhoriaUpdateRevIsocs.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TesteMelhoriaUpdateRevIsocs.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:TesteMelhoriaUpdateRevIsocs.Context">
+ <summary>
+ Classe responsável por Setar a estratégia e por executar 
+ o Teste Desejado (Conforme  estratégia)
+ </summary>
+</member>
+<member name="T:TesteMelhoriaUpdateRevIsocs.IStrategy">
+ <summary>
+ Interface com o método ExecuteAction() que será imple-
+ mentado em todos os Testes
+ </summary>
+</member>
+<member name="M:TesteMelhoriaUpdateRevIsocs.TestExecutor.#ctor(System.Int32,System.String,System.Collections.Generic.List{System.Object})">
+ <summary>
+ Construtor que define variáveis para utilização interna
+ </summary>
+ <param name="num">Teste Desejado</param>
+ <param name="list">Lista de Teste</param>
+</member>
+<member name="M:TesteMelhoriaUpdateRevIsocs.TestExecutor.SetStrategy(System.Collections.Generic.List{System.Object},System.Int32,System.Boolean@)">
+ <summary>
+ Seta qual estatégia será utilizada
+ </summary>
+ <param name="num">Inteiro referente ao Teste desejado</param>
+ <param name="exists">Boolean referente à existência (ou não)
+ do Teste desejado</param>
+</member>
+<member name="M:TesteMelhoriaUpdateRevIsocs.Module1.SetListOfTests(System.Collections.Generic.List{System.Object}@)">
+ <summary>
+ Adiciona na lista de classes todos os testes
+ (quando for necessário criar um novo teste,
+ basta criar a classe e adicionar nessa lista).
+ </summary>
+</member>
+<member name="T:TesteMelhoriaUpdateRevIsocs.Teste_2">
+ <summary>
+ Classe com o código do Teste 2 encapsulado, que implementa o método
+ "ExecuteAction" da interface IStrategy.
+ </summary>
+</member>
+<member name="T:TesteMelhoriaUpdateRevIsocs.Teste_5">
+ <summary>
+ Classe com o código do Teste 5 encapsulado, que implementa o método
+ "ExecuteAction" da interface IStrategy.
+ </summary>
+</member>
+<member name="T:TesteMelhoriaUpdateRevIsocs.Teste_4">
+ <summary>
+ Classe com o código do Teste 4 encapsulado, que implementa o método
+ "ExecuteAction" da interface IStrategy.
+ </summary>
+</member>
+<member name="T:TesteMelhoriaUpdateRevIsocs.Teste_3">
+ <summary>
+ Classe com o código do Teste 3 encapsulado, que implementa o método
+ "ExecuteAction" da interface IStrategy.
+ </summary>
+</member>
+<member name="T:TesteMelhoriaUpdateRevIsocs.Teste_1">
+ <summary>
+ Classe com o código do Teste 1 encapsulado, que implementa o método
+ "ExecuteAction" da interface IStrategy.
+ </summary>
+</member>
+</members>
+</doc>

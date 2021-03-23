@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\bin\Debug\TesteMelhoriaUpdateRevIsocs.exe.config
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\bin\Debug\TesteMelhoriaUpdateRevIsocs.exe
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\bin\Debug\TesteMelhoriaUpdateRevIsocs.pdb
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\bin\Debug\TesteMelhoriaUpdateRevIsocs.xml
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\obj\Debug\TesteMelhoriaUpdateRevIsocs.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\obj\Debug\TesteMelhoriaUpdateRevIsocs.Resources.resources
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\obj\Debug\TesteMelhoriaUpdateRevIsocs.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\obj\Debug\TesteMelhoriaUpdateRevIsocs.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\obj\Debug\TesteMelhoriaUpdateRevIsocs.exe
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\obj\Debug\TesteMelhoriaUpdateRevIsocs.xml
+C:\Users\admin\source\repos\TesteMelhoriaUpdateRevIsocs\obj\Debug\TesteMelhoriaUpdateRevIsocs.pdb
